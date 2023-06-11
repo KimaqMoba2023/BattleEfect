@@ -1,143 +1,71 @@
 [
   {
-    "NAMA": "Alice",
-    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest/thumbnail/width/360/height/360?cb=20220525165611",
+    "NAMA": "Backup",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Classic_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203144023",
     "execute": "https://github.com/Mrkimaq1/ALL-MLBB/blob/main/Yin%20Default%20To%20Jujutsu%20Kaisen.zip?raw=true"
   },
   {
-    "NAMA": "Aurora",
-    "ALL SKIN": "Vn"
+    "NAMA": "Light & Dark",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Light_%26_Dark_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203145142"
   },
   {
-    "NAMA": "Cecilion",
-    "ALL SKIN": "Vn"
+    "NAMA": "Spring Festival",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Spring_Festival_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203145240"
   },
   {
-    "NAMA": " Change",
-    "ALL SKIN": "Vn"
+    "NAMA": " Starlight",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Starlight_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203145302"
   },
   {
-        "NAMA": "Cylops",
-    "ALL SKIN": "Vn"
+        "NAMA": "Wave of the World Animation",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Wave_of_the_World_Animation_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203145346"
   },
   {
-    "NAMA": "Esmeralda",
-    "ALL SKIN": "Vn"
+    "NAMA": "Halloween",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Halloween_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203145335"
   },
   {
-    "NAMA": "Eudora",
-    "ALL SKIN": "Vn"
+    "NAMA": "Christmas",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Christmas_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203145422"
   },
   {
-    "NAMA": "Grod",
-    "ALL SKIN": "Vn"
+    "NAMA": "MSC Tournament",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/MSC_Tournament_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203152026"
   },
   {
-    "NAMA": "Hariht",
-    "ALL SKIN": "Vn"
+    "NAMA": "MCL Tournament",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/MCL_Tournament_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203152003"
   },
   {
-        "NAMA": "Harley",
-    "ALL SKIN": "Vn"
+        "NAMA": "Sky Guardian",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Sky_Guardian_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203152114"
   },
   {
-    "NAMA": "Kadita",
-    "ALL SKIN": "Vn"
+    "NAMA": "Divine Wings",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Divine_Wings_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203154129"
   },
   {
-    "NAMA": "Kagura",
-    "ALL SKIN": "Vn"
+    "NAMA": "Gacha Party",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Gacha_Party_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203154516"
   },
   {
-    "NAMA": "Lunox",
-    "ALL SKIN": "Vn"
+    "NAMA": "Super Descent",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Super_Descent_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203154549"
   },
   {
-        "NAMA": "Luo Yi",
-    "ALL SKIN": "Vn"
+        "NAMA": "Arrival: Hello Kitty!",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Arrival_Hello_Kitty%21_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20220307094007"
   },
   {
-    "NAMA": "Lylia",
-    "ALL SKIN": "Vn"
+    "NAMA": "Foreboding Arrival",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Foreboding_Arrival_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20220626162847"
   },
   {
-    "NAMA": "Odet",
-    "ALL SKIN": "Vn"
+    "NAMA": "M1 Champion Spawn Effect",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/M1_Champion_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203154612"
   },
   {
-    "NAMA": "Parsha",
-    "ALL SKIN": "Vn"
-  },
-  {
-    "NAMA": "Vale",
-    "ALL SKIN": "Vn"
-  },
-  {
-    "NAMA": "Valir",
-    "ALL SKIN": "Vn"
-  },
-  {
-        "NAMA": "Valentina",
-    "ALL SKIN": "Vn"
-  },
-  {
-    "NAMA": "Vexana",
-    "ALL SKIN": "Vn"
-  },
-  {
-    "NAMA": "Yve",
-    "ALL SKIN": "Vn"
-  },
-  {
-    "NAMA": "Zhask",
-    "ALL SKIN": "Vn"
-  },
-  {
-    "NAMA": "Paquito",
-    "ALL SKIN": "Vn"
-  },
-  {
-        "NAMA": "Phoveus",
-    "ALL SKIN": "Vn"
-  },
-  {
-    "NAMA": "Roger",
-    "ALL SKIN": "Vn"
-  },
-  {
-    "NAMA": "Rubby",
-    "ALL SKIN": "Vn"
-  },
-  {
-    "NAMA": "Silvana",
-    "ALL SKIN": "Vn"
-  },
-  {
-        "NAMA": "Sun",
-    "ALL SKIN": "Vn"
-  },
-  {
-    "NAMA": "Terizla",
-    "ALL SKIN": "Vn"
-  },
-  {
-    "NAMA": "Thamuz",
-    "ALL SKIN": "Vn"
-  },
-  {
-    "NAMA": "Xbrog",
-    "ALL SKIN": "Vn"
-  },
-  {
-        "NAMA": "Yin",
-    "ALL SKIN": "Vn"
-  },
-  {
-    "NAMA": "Yu Zhong",
-    "ALL SKIN": "Vn"
-  },
-  {
-    "NAMA": "Zilong",
-    "ALL SKIN": "Vn"
+    "NAMA": "M2 Champion Spawn Effect",
+    "ALL SKIN": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/M2_Champion_Spawn_Effect.png/revision/latest/scale-to-width-down/100?cb=20211203172653"
   }
 ]
